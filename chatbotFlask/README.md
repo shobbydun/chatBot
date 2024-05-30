@@ -12,3 +12,6 @@ Interact with the bot:
 
 Type a message in the input field.
 Press "Enter" to receive a response from the bot.
+
+
+![Uploading Screenshot (19).png…]()
