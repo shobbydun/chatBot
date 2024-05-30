@@ -14,4 +14,4 @@ Type a message in the input field.
 Press "Enter" to receive a response from the bot.
 
 
-![Uploading Screenshot (19).png…]()
+![Screenshot (19)](https://github.com/shobbydun/chatBot/assets/87327873/20dfbac9-8410-4cda-b861-77e7583f5255)
